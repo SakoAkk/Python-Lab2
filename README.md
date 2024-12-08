@@ -116,7 +116,12 @@ The project uses the following Python libraries:
 
 
 ---
+## **Additionally**
 
+You should install the Rainbow CSV extension to make the csv file more readable in VS Code.
+(Extension ID: mechatroner.rainbow-csv)
+
+---
 ## **Contributing**
 
 Contributions are welcome! To contribute:
