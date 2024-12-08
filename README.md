@@ -55,8 +55,8 @@ This project performs system log analysis, identifies potential malware candidat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/log-analysis-and-threat-detection.git
-   cd log-analysis-and-threat-detection
+   git clone https://github.com/SakoAkk/Python-Lab2.git
+   cd Python-Lab2
    ```
 
 2. Create and activate a virtual environment:
@@ -114,11 +114,6 @@ The project uses the following Python libraries:
 - `csv`: File manipulation
 - `bs4`: Web scraping with BeautifulSoup
 
----
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
